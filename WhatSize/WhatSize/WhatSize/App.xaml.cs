@@ -10,7 +10,8 @@ namespace WhatSize
         {
             //MainPage = new WhatSizePage();
             //MainPage = new MetricalBoxViewPage();
-            MainPage = new FontSizesPage();
+            //MainPage = new FontSizesPage();
+            MainPage = new EstimatedFontSizePage();
         }
 
         protected override void OnStart()
