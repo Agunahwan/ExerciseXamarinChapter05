@@ -13,7 +13,8 @@ namespace WhatSize
             //MainPage = new FontSizesPage();
             //MainPage = new EstimatedFontSizePage();
             //MainPage = new FitToSizeClockPage();
-            MainPage = new AccessibilityTestPage();
+            //MainPage = new AccessibilityTestPage();
+            MainPage = new EmpiricalFontSizePage();
         }
 
         protected override void OnStart()
