@@ -8,7 +8,8 @@ namespace WhatSize
     {
         public App()
         {
-            MainPage = new WhatSizePage();
+            //MainPage = new WhatSizePage();
+            MainPage = new MetricalBoxViewPage();
         }
 
         protected override void OnStart()
