@@ -12,7 +12,8 @@ namespace WhatSize
             //MainPage = new MetricalBoxViewPage();
             //MainPage = new FontSizesPage();
             //MainPage = new EstimatedFontSizePage();
-            MainPage = new FitToSizeClockPage();
+            //MainPage = new FitToSizeClockPage();
+            MainPage = new AccessibilityTestPage();
         }
 
         protected override void OnStart()
